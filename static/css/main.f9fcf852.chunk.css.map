@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,qBACF,CACA,iBAGE,kBACF,CACA,gBAGE,WACF","file":"main.f9fcf852.chunk.css","sourcesContent":["html {\n  box-sizing: border-box;\n}\n*,\n*:before,\n*:after {\n  box-sizing: inherit;\n}\nhtml,\nbody,\n#root {\n  height: 100%;\n}\n"]}

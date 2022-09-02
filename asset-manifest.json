@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Typescript-Trello-Clone/static/css/main.f9fcf852.chunk.css",
+    "main.js": "/React-Typescript-Trello-Clone/static/js/main.c6822dfc.chunk.js",
+    "main.js.map": "/React-Typescript-Trello-Clone/static/js/main.c6822dfc.chunk.js.map",
+    "runtime-main.js": "/React-Typescript-Trello-Clone/static/js/runtime-main.61ac06f5.js",
+    "runtime-main.js.map": "/React-Typescript-Trello-Clone/static/js/runtime-main.61ac06f5.js.map",
+    "static/js/2.2a4a91a2.chunk.js": "/React-Typescript-Trello-Clone/static/js/2.2a4a91a2.chunk.js",
+    "static/js/2.2a4a91a2.chunk.js.map": "/React-Typescript-Trello-Clone/static/js/2.2a4a91a2.chunk.js.map",
+    "index.html": "/React-Typescript-Trello-Clone/index.html",
+    "static/css/main.f9fcf852.chunk.css.map": "/React-Typescript-Trello-Clone/static/css/main.f9fcf852.chunk.css.map",
+    "static/js/2.2a4a91a2.chunk.js.LICENSE.txt": "/React-Typescript-Trello-Clone/static/js/2.2a4a91a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61ac06f5.js",
+    "static/js/2.2a4a91a2.chunk.js",
+    "static/css/main.f9fcf852.chunk.css",
+    "static/js/main.c6822dfc.chunk.js"
+  ]
+}
